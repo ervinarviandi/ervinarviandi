@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ervin Arviandi</h1>
 <h3 align="center">A Frontend Engineer who still struggled to center the web element.</h3>
+https://csspoint101.com/wp-content/uploads/2020/10/Developer-on-laptop.gif
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
