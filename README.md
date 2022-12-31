@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, Next.js, Tailwind CSS, Bootstrap**
 
-- 👨‍💻 All of my projects are available at [https://ervin-arviandi.vercel.app/](https://ervin-arviandi.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ervin-arviandi.vercel.app/](https://ervinarvian.vercel.app/)
 
 - 📫 How to reach me **muhamadervin34@gmail.com**
 
